@@ -18,7 +18,7 @@ Built on: Android,Kotlin
 
 
 > ProtonMail Android app
-> ProtonMail is an end-to-end encrypted email service. This project might be a bit difficult for beginners. The contribution guide is also well explained.
+> ProtonMail is an end-to-end encrypted email service. This project might be a bit difficult for beginners.
 
 Built on: Android,Kotlin
 
