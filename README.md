@@ -23,3 +23,14 @@ Built on: Android,Kotlin
 Built on: Android,Kotlin
 
 [ProtonMail  Android](https://github.com/ProtonMail/proton-mail-android))
+
+
+## Stream 
+![8597527](https://user-images.githubusercontent.com/13647384/169640480-abd22520-650e-4672-94a2-cc14a3fe233b.png)
+
+
+> Stream Chat API. UI component libraries for chat apps. Kotlin & Jetpack Compose messaging SDK for Android chat.
+
+Built on: Android,Kotlin
+
+[Stream Chat Android](https://github.com/GetStream/stream-chat-android)
